@@ -35,4 +35,4 @@ jobs:
           echo "to_email=${{ secrets.to_email }}" >> .env
 
       - name: Execute Python Script
-        run: python main.py
+        run: python Newsletter-Agent/main.py
