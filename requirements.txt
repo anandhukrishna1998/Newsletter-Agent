@@ -1,0 +1,8 @@
+phi 
+fastapi
+uvicorn
+groq
+pycountry
+langchain-community
+langchain_google_genai
+resend
