@@ -6,3 +6,4 @@ resend
 phidata 
 python-dotenv
 duckduckgo-search
+googlesearch-python
