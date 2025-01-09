@@ -1,4 +1,3 @@
-phi
 fastapi
 uvicorn
 groq
@@ -6,3 +5,4 @@ pycountry
 resend
 phidata 
 python-dotenv
+duckduckgo-search

@@ -1,7 +1,6 @@
 from dotenv import load_dotenv
 from phi.agent import Agent
 import phi.api
-from phi.model.groq import Groq
 from phi.tools.duckduckgo import DuckDuckGo
 from phi.tools.resend_tools import ResendTools  # ResendTools properly imported
 import os
